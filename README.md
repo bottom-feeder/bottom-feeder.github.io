@@ -1,5 +1,5 @@
 ## Кирюшкин Илья
-![enter image description here](https://drive.google.com/uc?export=view&id=1pPKcGlFSXp93kkjKNtVN74VVd7qRWFEm)
+![photo](https://drive.google.com/uc?export=view&id=1pPKcGlFSXp93kkjKNtVN74VVd7qRWFEm)
 
 33 года  
 Москва  
