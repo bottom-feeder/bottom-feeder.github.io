@@ -173,14 +173,6 @@ OSISoft, Amazon, NetApp и других);
 
 ### Повышение квалификации, курсы 
 
-[Школа для технических писателей DOC Xsolla School](https://school.xsolla.com/documentation2021), 2021 
-Курс по документации, базовый поток
-
-[Курс программирования на Python](https://stepik.org/course/67/promo), 2020
-Онлайн-курс на платформе [Stepik](https://stepik.org)
-
-[Курс машиностроительного перевода](http://apschool.ru/kurs-mashinostroitelnogo-perevoda/), 2017
-
 [Школа для технических писателей DOC Xsolla School](https://school.xsolla.com/documentation2021), 2021  
 Курс по документации, базовый поток
 
