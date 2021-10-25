@@ -1,183 +1,134 @@
-## Кирюшкин Илья
-![photo](https://drive.google.com/uc?export=view&id=1pPKcGlFSXp93kkjKNtVN74VVd7qRWFEm)
+## Kiryushkin Ilya
+![My photo](https://drive.google.com/uc?export=view&id=1pPKcGlFSXp93kkjKNtVN74VVd7qRWFEm)
 
-33 года  
-Москва  
-Желаемая должность: технический писатель  
+33 years old  
+From Moscow  
+Position applied for: Technical Writer  
 ikiryushkin@gmail.com
 
 
-## О себе (коротко)
+## Professional profile
 
-В прошлом инженер-электронщик, сейчас работаю в локализации. Обо мне:
-
-- Имею базовые навыки работы с системой контроля версий Git.
-- Имею базовые навыки работы с языками разметки Markdown и HTML.
-- Знаю английский язык на продвинутом уровне (C1). 
-- Владею навыками письменного перевода с английского языка на русский и наоборот.
-- Имею представление о видах и типах технической документации, ее структуре и составе, принципах разработки и оформления.
-- Имею базовое представление о понятиях API и SDK.
-- Обладаю базовыми знаниями в области программирования на языках Python, C/С++, регулярных
-выражений.
-- Имею опыт работы с вики-системами (Confluence) и groupware-приложениями (Nuclino, Miro).
-- Знаком с основами языка Simplified Technical English (STE).
-
-
-## О себе (длинно)
-
-### Образование
-
-Московский институт электронной техники, 2005–2010  
-Факультет: Микроприборов и технической кибернетики  
-Специальность: Вычислительные машины, комплексы, системы и сети  
-
-
-### Опыт работы
-
-[Неотэк,](https://neotech.ru/) 2018 — настоящее время
->Профиль компании: переводческая деятельность  
-Должность: редактор локализационных проектов
-
-<details>
-  <summary>Обязанности и достижения</summary>
+Hard skills:  
+- Proficient in written English (level: C1).
+- Has a solid technical background.
+- Expert in various CAT tools.
+- Worked as an EN<>RU translator and editor.
+- Basic git knowledge.
+- Coded in C++, Python, RegExp (level: junior).
+- Basic knowledge of markup languages (HTML, Markdown, XML).
+- Has a grasp on a concept of technical documentation: how to develop, structure and publish docs.
+- Basic understanding of API and SDK concepts.
+- Worked with wiki systems and groupware apps (Confluence, Nuclino, Miro).
+- Familiar with Simplified Technical English (STE) language.
+- Power user of Windows and MS Office.
+- Experienced user of macOS.
+- Worked with Bash and Terminal.
+- Aware of IT trends and concepts.
+<br />
   
-Обязанности:
-
-- редактирование переводов технических текстов (с английского языка на русский и наоборот);
-- составление и проверка тестовых заданий для отбора внештатных переводчиков и редакторов;
-- создание глоссариев, обслуживание систем памяти перевода (актуализация, исправление ошибок);
-- консультация сотрудников компании по вопросам, связанным с качеством перевода (пример презентации можно посмотреть [здесь](https://prezi.com/view/mEXuGyX4LVUY8fP9Zgk9/)).
-
-Релевантные достижения:
-- редактировал тексты на IT-тематику для таких заказчиков, как SAP, Dell, NetApp, Microsoft;
-- составил несколько локализационных стайлгайдов для заказчиков и крупных проектов;
-- составил инструкцию для переводчиков на языки стран СНГ и участвовал в ее переводе на английский
-язык.  
-С русской версией инструкции можно ознакомиться по этой ссылке: https://bit.ly/LSPReqsRU.  
-Версию на английском языке можно просмотреть здесь: https://bit.ly/LSPReqsEN.
-</details>
+Soft skills:  
+- Resourceful, responsible and attentive to details. 
+- Creative and apt in problem-solving. 
+- Open-minded and quick to grasp new ideas.
 
 
-[ITI](https://web.archive.org/web/20210228184218/https://iti.ru/), 2015—2018
->Профиль компании: переводческая деятельность  
-Должность: менеджер отдела контроля качества
+## Education
 
-<details>
-  <summary>Обязанности и достижения</summary>
-
-Обязанности:
-
-- проверка промежуточного и финального качества переводов;
-- работа со специализированным ПО для проверки качества перевода;
-- рассмотрение претензий к качеству переводов со стороны клиента, анализ причин;
-- ведение документации управления качеством (доработка контролирующего качество ПО, пополнение базы знаний);
-- доработка и развитие текущей системы качества (составление инструкций, технических заданий на оптимизацию внутреннего ПО для проверки качества перевода);
-- взаимодействие с внештатными исполнителями по вопросам качества;
-- оценка кандидатов во внештатные исполнители.
-
-Релевантные достижения:
-- успешно взаимодействовал с разработчиком внутреннего ПО компании для проверки качества перевода по вопросам разработки новых и доработки существующих функций, чтобы соответствовать стандартам управления качеством;
-- освоил работу с инструментами для внутренней техподдержки (ZenDesk) и вики-системами (Confluence).
-</details>
-
-
-[ITI](https://web.archive.org/web/20210228184218/https://iti.ru/), 2013—2015
->Профиль компании: переводческая деятельность    
-Должность: менеджер локализационных проектов
-
-<details>
-  <summary>Обязанности и достижения</summary>
-
-Обязанности:
-
-- управление процессом локализации перевода и оценки качества стороннего перевода;
-- координация работы пула внештатных переводчиков‚ редакторов и корректоров;
-- общение с клиентами на английском языке (устно и письменно);
-- работа со средствами Computer-Aided Translation (Trados‚ MemoQ, Translation WorkSpace‚ Idiom и
-пр.);
-- работа с трекерами (Jira), в т. ч. баг-трекерами ([TRAC](https://en.wikipedia.org/wiki/Trac)) в роли тестировщика локализации.
-
-Релевантные достижения:
-- за время работы довел до конца несколько сотен проектов по локализации и оценке качества
-перевода для крупных заказчиков из Европы и США (Cisco, Dell/EMC, VMware, Microsoft, Oracle,
-OSISoft, Amazon, NetApp и других);
-- составил инструкции для адаптации новых или подменяющих сотрудников к особенностям ведения
-закрепленных за мной проектов.
-</details>
-
-
-[Лутроник центр](http://bellasystech.ru/), 2012–2013
->Профиль компании: дистрибуция медицинского оборудования  
-Должность: переводчик
-
-<details>
-  <summary>Обязанности и достижения</summary>
-
-Обязанности:
-
-- письменный перевод документации для медицинского оборудования с английского языка на русский;
-- перевод, редактирование, корректура и верстка текстов на техническую и медицинскую тематику;
-- перевод с английского языка на русский и с русского языка на английский деловой переписки;
-- устный перевод на выставках и конференциях.
-
-Релевантные достижения:
-- успешно взаимодействовал с инженерным отделом зарубежной компании-производителя по вопросам эксплуатации, обслуживания и ремонта оборудования;
-- верстка и допечатная подготовка переведенной документации на оборудование.
-</details>
-
-
-[НИИМЭ и Микрон](https://mikron.ru/), 2011–2012
->Профиль компании: производство микроэлектроники  
-Должность: инженер по наладке и испытанию оборудования
-
-<details>
-  <summary>Обязанности и достижения</summary>
-
-Обязанности:
-
-- наладка, ремонт и регулировка технологического оборудования согласно документации производителя;
-- проведение планово-предупредительных работ по обслуживанию оборудования согласно документации производителя;
-- контроль основных технологических параметров по приборам.
-
-Релевантные достижения:
-- изучил структуру и состав технической документации на установки плазмо-химического травления
-американского и европейского производства (на английском языке).
-- взаимодействовал с программным обеспечением установок в роли пользователя.
-- участвовал в проведении работ по вводу в эксплуатацию оборудования совместно с англоговорящими
-сервисными инженерами комании-производителя.
-</details>
-
-
-[ОПТЭКС](https://optecs-npp.ru/), 2009–2011
->Профиль компании: приборостроение  
-Должность: инженер-электроник
-
-<details>
-  <summary>Обязанности и достижения</summary>
+Specialist degree in computer science, Moscow Institute of Electronic Technology (MIET), 2005–2010  
   
-Обязанности:
+## Career Summary
 
-- регулировка и наладка радиоэлектронных изделий;
-- разработка принципиальных схем радиоэлектронной аппаратуры;
-- выпуск и сопровождение конструкторской документации по стандартам ЕСКД (ГОСТ 2).
+[Neotech](https://neotech.ru/), 2018—Now
+>Company profile: Language service provider    
 
-Релевантные достижения:
-- участвовал в разработке нескольких комплектов конструкторской документации на комплексы
-аппаратуры;
-- проводил испытания комплексов аппаратуры в соответствии с программой и методикой испытаний;
-- взаимодействовал с программным обеспечением для проведения испытаний;
-- изучил структуру, состав конструкторской документации и соответствующие ГОСТы (в основном
-ГОСТ 2.701 и сопутствующие).
+<details>
+  <summary>Editor (EN<>RU)</summary>
+  
+- Edited technical and non-technical translations for various hardware and software providers, including SAP, Dell, NetApp and Microsoft.
+- Devised and evaluated tests for freelance candidates.
+- Created glossaries and style guides, maintained translation memories.
+- Wrote and published instructions for in-house employees and outsourced personnel (see the example for language service providers from CIS countries [here](https://bit.ly/LSPReqsEN/)).
+- Consulted staff on language quality issues (see an example of the presentation [here](https://prezi.com/view/mEXuGyX4LVUY8fP9Zgk9/)).
+</details>
+
+<br />
+    
+[ITI](https://web.archive.org/web/20210228184218/https://iti.ru/), 2015—2018  
+>Company profile: Language service provider    
+
+<details>
+  <summary>Localization QA Manager</summary>
+
+- Substantially revised the company's KPI system.
+- Performed automated checks before final delivery using QA tools such as Verifika, MultiQA (ContentQuo) and Xbench.
+- Copy-edited and reworked subpar translations.
+- Registered and processed incoming quality audits from the client's reviews.
+- Performed root cause analysis of poor product quality and came up with corrective action plans. 
+- Ensured that the company's workflow complies with the industry standards (ASTM F 2575, EN 15038, ISO 17100) and frameworks (LISA, SAE J2450, MQM, TAUS DQF).
+- Participated in meetings with stakeholders.
+</details>
+
+<br />
+    
+[ITI](https://www.iti.ru/), 2013—2015  
+>Company profile: Language service provider    
+
+<details>
+  <summary>Localization Project Manager</summary>
+
+- Managed localization and review projects for hardware and software vendors, including Cisco, Dell/EMC, VMware, Microsoft, Oracle, OSISoft, Amazon, NetApp.
+- Analyzed project scope, prepared and converted files for various CATs (Trados studio, TWS Translation Workspace‚ MemoQ, Idiom, WordFast, Transit, Passolo, LEAF).
+- Coordinated workflow and activity of translators, editors/reviewers and proofreaders.
+- Participated in meetings with stakeholders.
+- Performed automated quality checks and spot checks before final delivery; copy-edited and reworked subpar translations.
+- Maintained project style guides, glossaries and translation memories.
+</details>
+
+<br />
+    
+[Lutronic](http://bellasystech.ru/), 2012–2013  
+>Company profile: Laser medicine  
+
+<details>
+  <summary>Translator (EN<>RU)</summary>
+
+- Translated business correspondence and documentation for laser medicine and plastic surgery equipment. Examples of documentation: user guides, clinical studies, manuals for service engineers and physicians, marketing materials.
+- Performed desktop publishing using Adobe Creative Suite apps.
+- Collaborated with service engineers from the company's head office in Korea.
+</details>
+
+<br />
+    
+[Mikron](www.mikron.ru), 2011–2012   
+>Company profile: Semiconductor fabrication plant  
+
+<details>
+  <summary>Service engineer</summary>
+
+- Performed maintenance and troubleshooting of machinery for semiconductor device fabrication (plasma etchers).
+- Studied English documents, manuals, descriptions and datasheets for the plasma etchers and their components.
+- Successfully collaborated with field service engineers from the UK.
+</details>
+
+<br />
+    
+[OPTECS](https://optecs-npp.ru/), 2009–2011  
+>Company profile: Space instrumentation  
+
+<details>
+  <summary>Electrical engineer</summary>
+  
+- Performed troubleshooting of test & control equipment for spacecraft systems.
+- Engaged in R&D activity: studied manuals, descriptions and datasheets for various electronic components and devices.
+- Prepared and issued ESKD-compliant (GOST 2.701) documentation for the equipment.
 </details>
 
 
-### Повышение квалификации, курсы 
+## Online Courses 
 
-[Школа для технических писателей DOC Xsolla School](https://school.xsolla.com/documentation2021), 2021  
-Курс по документации, базовый поток
-
-[Курс программирования на Python](https://stepik.org/course/67/promo), 2020  
-Онлайн-курс на платформе [Stepik](https://stepik.org)
-
-[Курс машиностроительного перевода](http://apschool.ru/kurs-mashinostroitelnogo-perevoda/), 2017  
-Курс школы отраслевых переводчиков «АЛЬЯНС ПРО»
+[Xsolla Doc School](https://school.xsolla.com/documentation2021) by Xsolla; basic course, 2021
+  
+[Introduction to Python](https://stepik.org/course/67/promo) by Bioinformatics Institute, 2020
+  
+[Engineering Translation](http://apschool.ru/kurs-mashinostroitelnogo-perevoda/) by Alliance PRO, 2017
