@@ -111,7 +111,7 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 >Company profile: Semiconductor fabrication plant  
 
 <details>
-  <summary>Service 666 engineer</summary>
+  <summary>Service engineer</summary>
 
 - Performed maintenance and troubleshooting of machinery for semiconductor device fabrication (plasma etchers).
 - Studied English documents, manuals, descriptions and datasheets for the plasma etchers and their components.
