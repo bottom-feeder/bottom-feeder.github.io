@@ -91,6 +91,8 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 </details>
 
 <br />
+<br />
+    
     
 [Lutronic](http://bellasystech.ru/), 2012–2013  
 >Company profile: Laser medicine  
