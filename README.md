@@ -49,7 +49,7 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 - Devised and evaluated tests for freelance candidates.
 - Created glossaries and style guides, maintained translation memories.
 - Wrote and published instructions for in-house employees and outsourced personnel (see the example for language service providers from CIS countries [here](https://bit.ly/LSPReqsEN/)).
-- Consulted staff on language quality issues (see an example of the presentation [here](https://prezi.com/view/mEXuGyX4LVUY8fP9Zgk9/)).
+- Consulted staff on language quality matters (see an example of the presentation [here](https://prezi.com/view/mEXuGyX4LVUY8fP9Zgk9/)).
 </details>
 
 <br />
@@ -66,7 +66,7 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 - Substantially revised the company's KPI system.
 - Performed automated checks before final delivery using QA tools such as Verifika, MultiQA (ContentQuo) and Xbench.
 - Copy-edited and reworked subpar translations.
-- Registered and processed incoming quality audits from the client's reviews.
+- Registered and processed incoming quality audits from clients.
 - Performed root cause analysis of poor product quality and came up with corrective action plans. 
 - Ensured that the company's workflow complies with the industry standards (ASTM F 2575, EN 15038, ISO 17100) and frameworks (LISA, SAE J2450, MQM, TAUS DQF).
 - Participated in meetings with stakeholders.
@@ -111,7 +111,7 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 >Company profile: Semiconductor fabrication plant  
 
 <details>
-  <summary>Service engineer</summary>
+  <summary>Service Engineer</summary>
 
 - Performed maintenance and troubleshooting of machinery for semiconductor device fabrication (plasma etchers).
 - Studied English documents, manuals, descriptions and datasheets for the plasma etchers and their components.
@@ -126,7 +126,7 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 >Company profile: Space instrumentation  
 
 <details>
-  <summary>Electrical engineer</summary>
+  <summary>Electronics Engineer</summary>
   
 - Performed troubleshooting of test & control equipment for spacecraft systems.
 - Engaged in R&D activity: studied manuals, descriptions and datasheets for various electronic components and devices.
