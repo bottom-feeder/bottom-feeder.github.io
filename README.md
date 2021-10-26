@@ -140,4 +140,4 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
   
 [Introduction to Python](https://stepik.org/course/67/promo) by Bioinformatics Institute, 2020
   
-[Engineering Translation](http://apschool.ru/kurs-mashinostroitelnogo-perevoda/) by Alliance PRO, 2017
+[Mechanical Engineering: Course for Translators](http://apschool.ru/kurs-mashinostroitelnogo-perevoda/) by Alliance PRO, 2017
