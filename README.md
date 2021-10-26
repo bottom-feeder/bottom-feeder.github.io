@@ -57,7 +57,7 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 
     
     
-[ITI](https://web.archive.org/web/20210228184218/https://iti.ru/), 2015—2018  
+[ITI](https://www.iti.ru/), 2015—2018  
 >Company profile: Language service provider    
 
 <details>
