@@ -4,18 +4,15 @@
 33 years old  
 From Moscow  
 Position applied for: Technical Writer  
-ikiryushkin@gmail.com
-
-
-## About me
+ikiryushkin@gmail.com  
   
-A tech-savvy and eloquent writer who is a scrupulous and resourceful team player.
-
-I graduated with a degree in computer science, started out as an electronics engineer, and then switched to localization. After almost 8 years in the l10n industry, I am looking for a refreshing career change.
-
-While working in localization, I became interested in software engineering. Since then, I have dabbled in coding in various programming and markup languages. Now I'm looking for a place to launch my tech comm career.
-
-
+## About me  
+A tech-savvy and eloquent writer who is a scrupulous and resourceful team player.  
+  
+I graduated with a degree in computer science, started out as an electronics engineer, and then switched to localization. After almost 8 years in the l10n industry, I am looking for a refreshing career change.  
+  
+While working in localization, I became interested in software engineering. Since then, I have dabbled in coding in various programming and markup languages. Now I'm looking for a place to launch my tech comm career.  
+  
 ## Professional profile
 
 Hard skills:  
