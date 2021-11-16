@@ -7,6 +7,15 @@ Position applied for: Technical Writer
 ikiryushkin@gmail.com
 
 
+## About me
+  
+A tech-savvy and eloquent writer who is a scrupulous and resourceful team player.
+
+I graduated with a degree in computer science, started out as an electronics engineer, and then switched to localization. After almost 8 years in the l10n industry, I am looking for a refreshing career change.
+
+While working in localization, I became interested in software engineering. Since then, I have dabbled in coding in various programming and markup languages. Now I'm looking for a place to launch my tech comm career.
+
+
 ## Professional profile
 
 Hard skills:  
@@ -48,7 +57,7 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 - Edited technical and non-technical translations for various hardware and software providers, including SAP, Dell, NetApp and Microsoft.
 - Devised and evaluated tests for freelance candidates.
 - Created glossaries and style guides, maintained translation memories.
-- Wrote and published instructions for in-house employees and outsourced personnel (see the example for language service providers from CIS countries [here](https://bit.ly/LSPReqsEN/)).
+- Wrote and published instructions for in-house employees and outsourced personnel (see the example for language service providers from CIS countries [here](https://bit.ly/LSPReqsEN)).
 - Consulted staff on language quality matters (see an example of the presentation [here](https://prezi.com/view/mEXuGyX4LVUY8fP9Zgk9/)).
 </details>
 
