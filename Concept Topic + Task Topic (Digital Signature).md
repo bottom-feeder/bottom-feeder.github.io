@@ -1,10 +1,3 @@
-<style>
-img {
-    display: block;
-    margin: 0 auto;
-}
-</style>
-
 # Digital Signatures in Russia and in general. Theory and Practice 
 
 
