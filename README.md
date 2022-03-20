@@ -152,4 +152,4 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
     
 
 ## My Portfolio Text
-Check it out here: Concept Topic + Task Topic (Digital Signature).md
+Check it out [here](Concept Topic + Task Topic (Digital Signature).md)
