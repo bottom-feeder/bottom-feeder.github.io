@@ -155,4 +155,4 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 <br/>   
 
 ## My Portfolio Text
-A concept topic for a global company who decided to include digital signatures in their new product for Russian market. The concept topic is followed by a task topic with detailed instructions. Read the portfolio text [here](Concept%20Topic%20+%20Task%20Topic%20(Digital%20Signature).md).
+A concept topic for a global company that decided to include digital signatures in their new Russia-oriented product. The concept topic is followed by a task topic with detailed instructions. Read the portfolio text [here](Concept%20Topic%20+%20Task%20Topic%20(Digital%20Signature).md).
