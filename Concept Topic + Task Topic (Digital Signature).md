@@ -90,9 +90,9 @@ The receiving party (the verifier) must check the signature validity. The verifi
 1. The verifier compares the calculated result with the hash from the decrypted signature. If the hashes match, the signature is valid.
 
 <p align="center">
-  <img src="https://i.ibb.co/sqFPQ05/Signing-and-verifying-Ad-ES.png" alt="How hashing works"/>
+  <img src="https://i.ibb.co/6DB17TW/Signing-and-Verifying-Ad-ES.png" alt="How hashing works"/>
 </p>
-
+<br/>
 
 
 However, a malicious agent in the middle of the exchange can theoretically intercept the public key and signed data, replacing it with their key and fraudulent data. To prevent this, a third party, both the signer and verifier can trust, known as the Certificate Authority (CA), guarantees the validity of the digital signature. To accomplish this, the CA checks the signer's identity, usually presented in hard-copy form, and verifies their signature. If everything looks good, the CA issues a Digital certificate for the signature. This certificate contains the public key for a digital signature and specifies the identity associated with the key, such as the name of the signatory's organization.
