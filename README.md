@@ -12,6 +12,7 @@ A tech-savvy and eloquent writer who is a scrupulous and resourceful team player
 I graduated with a degree in computer science, started out as an electronics engineer, and then switched to localization. After almost 8 years in the l10n industry, I am looking for a refreshing career change.  
   
 While working in localization, I became interested in software engineering. Since then, I have dabbled in coding in various programming and markup languages. Now I'm looking for a place to launch my tech comm career.  
+<br/>
   
 ## Professional profile
 
@@ -37,12 +38,13 @@ Soft skills:
 - Resourceful, responsible and attentive to details. 
 - Creative and apt in problem-solving. 
 - Open-minded and quick to grasp new ideas.
-
+<br/>
 
 ## Education
 
 Specialist degree in computer science, Moscow Institute of Electronic Technology (MIET), 2005–2010  
-  
+<br/>
+
 ## Career Summary
 
 [Neotech](https://neotech.ru/), 2018—Now
@@ -115,7 +117,7 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 <br />
 
     
-[Mikron](www.mikron.ru), 2011–2012   
+[Mikron](http://www.mikron.ru), 2011–2012   
 >Company profile: Semiconductor fabrication plant  
 
 <details>
@@ -140,7 +142,7 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 - Engaged in R&D activity: studied manuals, descriptions and datasheets for various electronic components and devices.
 - Prepared and issued ESKD-compliant (GOST 2.701) documentation for the equipment.
 </details>
-
+<br/>
 
 ## Online Courses 
 
@@ -149,7 +151,8 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 [Introduction to Python](https://stepik.org/course/67/promo) by Bioinformatics Institute, 2020
   
 [Mechanical Engineering: Course for Translators](http://apschool.ru/kurs-mashinostroitelnogo-perevoda/) by Alliance PRO, 2017
-    
+ 
+<br/>   
 
 ## My Portfolio Text
-Check it out [here](Concept Topic + Task Topic (Digital Signature).md)
+A concept topic for a global company who decided to include digital signatures in their new product for Russian market. The concept topic is followed by a task topic with detailed instructions. Read the portfolio text [here](Concept%20Topic%20+%20Task%20Topic%20(Digital%20Signature).md).
