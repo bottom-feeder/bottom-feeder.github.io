@@ -1,7 +1,5 @@
 ## Kiryushkin Ilya
-<p align="left">
-  <img src="https://i.ibb.co/nPhJrqX/2021-06-29-2.jpg" alt="my photo"/>
-</p>
+![my photo](my_photo.jpg)
 
 34 years old  
 From Moscow  
