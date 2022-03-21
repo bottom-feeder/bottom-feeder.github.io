@@ -1,7 +1,9 @@
 ## Kiryushkin Ilya
-<a href="https://ibb.co/nPhJrqX"><img src="https://i.ibb.co/nPhJrqX/2021-06-29-2.jpg" alt="my photo" border="0"></a>
+<p align="left">
+  <img src="https://i.ibb.co/nPhJrqX/2021-06-29-2.jpg" alt="my photo"/>
+</p>
 
-33 years old  
+34 years old  
 From Moscow  
 Position applied for: Technical Writer  
 ikiryushkin@gmail.com  
